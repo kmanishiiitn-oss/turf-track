@@ -113,8 +113,4 @@ yarn start
 
 - Currently supports top-tier leagues only
 - Team locations are based on stadium coordinates
-- Database is pre-seeded with team information
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](link-to-issues).
+- Database is pre-seeded with team information.
